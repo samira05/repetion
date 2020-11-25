@@ -1,0 +1,23 @@
+{
+  "name": "repetion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samira05/repetion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samira05/repetion/issues"
+  },
+  "homepage": "https://github.com/samira05/repetion#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
